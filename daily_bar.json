@@ -1,0 +1,106 @@
+{
+  "FOH DAILY BAR CLEANING": {
+    "items": [
+      {
+        "task": "CLEAN ALL BAR STOOLS & CHAIRS",
+        "done": false,
+        "signature": ""
+      },
+      {
+        "task": "KEEP BAR COUNTER CLEAN AND CLUTTER FREE",
+        "done": false,
+        "signature": ""
+      },
+      {
+        "task": "ROTATE AND STOCK ALL BEER AFTER EACH SHIFT",
+        "done": false,
+        "signature": "ONLY PULL BY 6 PACKS!!"
+      },
+      {
+        "task": "ROTATE AND STOCK ALL JUICE, MIXERS, FRUIT AFTER EACH SHIFT (PM THROW AWAY FRUIT)",
+        "done": false,
+        "signature": ""
+      },
+      {
+        "task": "CLEAN TABLETOP DEVICES AND KEEP CHARGED (PM PUT ON CHARGER)",
+        "done": false,
+        "signature": ""
+      },
+      {
+        "task": "REFILL AND LABEL ALL ITEMS PREPPED",
+        "done": false,
+        "signature": ""
+      },
+      {
+        "task": "CLEAN AND SWEEP BAR AREA FLOORS AND BEHIND THE BAR",
+        "done": false,
+        "signature": ""
+      },
+      {
+        "task": "TAKE OUT TRASH AND GLASS CONTAINER AFTER EACH SHIFT & RE-BAG",
+        "done": false,
+        "signature": ""
+      },
+      {
+        "task": "WIPE DOWN ALL BAR COOLERS, BAR EQUIPMENT, GASKETS AFTER EACH SHIFT",
+        "done": false,
+        "signature": ""
+      },
+      {
+        "task": "CLEAN ALL BOTTLES & RAILS",
+        "done": false,
+        "signature": ""
+      },
+      {
+        "task": "MELT AND SANITIZE ICE WELL THEN FILL (PM ONLY)",
+        "done": false,
+        "signature": ""
+      },
+      {
+        "task": "STOCK ALL BAR GLASSES SHIFTLY",
+        "done": false,
+        "signature": ""
+      },
+      {
+        "task": "EMPTY DISH TANK SHIFTLY",
+        "done": false,
+        "signature": ""
+      },
+      {
+        "task": "ROLL SILVERWARE AND KEEP STOCKED BEHIND THE BAR EACH SHIFT",
+        "done": false,
+        "signature": ""
+      },
+      {
+        "task": "SODA GUN WIPED AND CLEANED AFTER EACH SHIFT",
+        "done": false,
+        "signature": ""
+      },
+      {
+        "task": "CLEAN ALL STAINLESS STEEL BEHIND BAR",
+        "done": false,
+        "signature": ""
+      },
+      {
+        "task": "CLEAN ALL BAR SINKS, HAND SINKS, (STOCK SOAP, PAPER TOWEL, CHEMICALS AS NEEDED)",
+        "done": false,
+        "signature": ""
+      },
+      {
+        "task": "CLEAN ALL BAR TAPS & BEER TAP DRAINS",
+        "done": false,
+        "signature": ""
+      },
+      {
+        "task": "KEEP MARGARITA MACHINE CLEANED AND LABELED",
+        "done": false,
+        "signature": ""
+      },
+      {
+        "task": "END OF EACH OF YOUR SHIFT CLEAN AND PLACE YOUR IPAD ON THE CHARGER IN THE OFFICE.",
+        "done": false,
+        "signature": ""
+      }
+    ]
+  }
+}
